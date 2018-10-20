@@ -1,2 +1,1 @@
-# tark-test
-CWRU BC Day 2
+collection of projects for cwru boot camp
