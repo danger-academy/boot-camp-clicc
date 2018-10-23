@@ -1,0 +1,44 @@
+/**
+ * Positioning Activity
+ **/
+
+body { 
+}
+
+#main-text {
+  display: block;
+  width:80%;
+  margin-left:20%;
+  text-align: left;
+}
+  
+.fixed {
+  display:block;
+  width:100px;
+  padding:30px;
+  position:fixed ;
+  left:0px;
+  top: 0px;
+  background-color: #eee;
+  text-align:center;
+}
+
+.relative {
+  position: relative;
+  background:#eee;
+  width: 100%;
+  padding: 20px;
+  padding-bottom:100px;
+  text-align:center;
+}
+
+.absolute {
+  position:absolute;
+  bottom:0px;
+  right:-20px;
+  background:#999;
+  width:150px;
+  padding: 20px;
+  text-align:center;
+}
+
